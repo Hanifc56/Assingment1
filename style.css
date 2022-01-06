@@ -115,6 +115,7 @@ span{
     margin: 0px 150px;
     border-radius: 10px;
     margin-top: 100px;
+    margin-bottom: 100px;
     height: 100px;
     
 }
@@ -148,4 +149,19 @@ span{
 }
 #attract-client{
     color: mintcream;
+}
+footer{
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+.last-sec{
+    background-color: black;
+    padding: 20px 0px 20px 0px;
+}
+#year{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
 }
